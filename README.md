@@ -14,7 +14,7 @@ The specific tasks to be performed in this project include:
 4. **Clustering Similar Content**: Utilize text-based features to cluster similar content,
 
 ## Dataset
-The dataset used in this project contains information about movies and TV shows available on Netflix. It includes features such as title, director, cast, genre, release year, duration, and country. The dataset is sourced from [provide the source of the dataset here].
+The dataset used in this project contains information about movies and TV shows available on Netflix. It includes features such as title, director, cast, genre, release year, duration, and country. The dataset is sourced from [https://drive.google.com/file/d/1i_UJFl7Kvk_YKUj3MoCnLe0GjmPTDXWC/view?usp=drive_link].
 
 
 ## Project Summary
